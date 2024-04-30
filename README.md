@@ -16,7 +16,6 @@
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <br>
-
 - 💼 <i><strong>Systems Engineer Teaching Assistant at Universidad de Lima</strong></i>
 
 - 🔭 <i><strong>I’m currently working on a Multimodal Deception Detection Project</strong></i>
@@ -31,6 +30,7 @@
 
 - 📄 <i><strong>Medium ->  [(ノಠ益ಠ)ノ彡 ┻━┻](https://medium.com/@ignaciodejesus.m.u)</strong></i>
 
+<br>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
