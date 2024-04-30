@@ -17,7 +17,7 @@
 
 <br>
 - 💼 <i><strong>Systems Engineer Teaching Assistant at Universidad de Lima</strong></i>
-  
+
 - 🔭 <i><strong>I’m currently working on a Multimodal Deception Detection Project</strong></i>
 
 - 🌱 <i><strong>Currently learning Mojo</strong></i> 🔥
