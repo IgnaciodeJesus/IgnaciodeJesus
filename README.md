@@ -1,5 +1,10 @@
 ### Hi there 👋
+![Core_Skills](https://media.giphy.com/media/B8vpJUBXbpjgYEGXDP/giphy.gif)
 
+- 🔭 I’m currently working on a Multimodal Deception Detection Project
+- 🌱 I’m currently learning Mojo 🔥
+- 👯 I’m looking to collaborate on Machine Learning & Deep Learning Projects
+- 💻 Web Page ![Web_Page](https://ignaciodejesus.com)
 <!--
 **IgnaciodeJesus/IgnaciodeJesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
