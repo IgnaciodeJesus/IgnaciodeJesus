@@ -29,6 +29,14 @@
 
 - 📄 <i><strong>Medium ->  [(ノಠ益ಠ)ノ彡 ┻━┻](https://medium.com/@ignaciodejesus.m.u)</strong></i>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/IgnaciodeJesus">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IgnaciodeJesus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IgnaciodeJesus&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
 **IgnaciodeJesus/IgnaciodeJesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
