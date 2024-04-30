@@ -2,7 +2,7 @@
 <h1 align="center"> Hi there, I'm <a href="https://ignaciodejesus.com/">Ignacio de Jesus</a>👋</h1>
 </div>
 
-<img src="IgnaciodeJesus/Gif_Github.gif" width="250" height="250"/>
+<img src="Gif_Github.gif" width="250" height="250"/>
 
 - 🔭 I’m currently working on a Multimodal Deception Detection Project
 - 🌱 I’m currently learning Mojo 🔥
