@@ -1,5 +1,9 @@
-### Hi there 👋
-![Core_Skills](https://media.giphy.com/media/B8vpJUBXbpjgYEGXDP/giphy.gif)
+<div align="center">
+<h1 align="center"> Hi there, I'm <a href="https://ignaciodejesus.com/">Ignacio de Jesus</a>👋</h1>
+</div>
+
+![Core_Skills](https://media.giphy.com/media/B8vpJUBXbpjgYEGXDP/giphy.gif){ width=900 height=400 }
+
 
 - 🔭 I’m currently working on a Multimodal Deception Detection Project
 - 🌱 I’m currently learning Mojo 🔥
