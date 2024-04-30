@@ -1,0 +1,7 @@
+<svg viewBox="-30 -4 570 521" xmlns="http://www.w3.org/2000/svg" id="py-icon">
+  <style>
+    @keyframes first{0%{stroke-dasharray:0 1600}50%{stroke-dasharray:1600 1600;fill:transparent}75%,to{fill:#3670a0}}@keyframes second{0%{stroke-dasharray:0 1600}50%{stroke-dasharray:1600 1600;fill:transparent}75%,to{fill:#fed140}}#py-icon{fill:transparent}.first-child,.last-child{stroke:#3670a0;stroke-width:7px;animation:first 5s linear forwards;animation-iteration-count:infinite}.last-child{stroke:#fed140;animation:second 5s linear forwards}
+  </style>
+  <path class="first-child" d="M116 296c0-30.328125 24.671875-55 55-55h170c13.785156 0 25-11.214844 25-25V75c0-41.355469-33.644531-75-75-75h-70c-41.355469 0-75 33.644531-75 75v41h110c8.285156 0 15 6.714844 15 15s-6.714844 15-15 15H75c-41.355469 0-75 33.644531-75 75v70c0 41.355469 33.644531 75 75 75h41zM221 76c-8.285156 0-15-6.714844-15-15s6.714844-15 15-15 15 6.714844 15 15-6.714844 15-15 15zm0 0"/>
+  <path class="last-child" d="M437 146h-41v70c0 30.328125-24.671875 55-55 55H171c-13.785156 0-25 11.214844-25 25v141c0 41.355469 33.644531 75 75 75h70c41.355469 0 75-33.644531 75-75v-41H256c-8.285156 0-15-6.714844-15-15s6.714844-15 15-15h181c41.355469 0 75-33.644531 75-75v-70c0-41.355469-33.644531-75-75-75zM291 436c8.285156 0 15 6.714844 15 15s-6.714844 15-15 15-15-6.714844-15-15 6.714844-15 15-15zm0 0"/>
+</svg>

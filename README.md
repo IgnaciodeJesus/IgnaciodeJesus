@@ -2,12 +2,28 @@
 <h1 align="center"> Hi there, I'm <a href="https://ignaciodejesus.com/">Ignacio de Jesus</a>👋</h1>
 </div>
 
-<img src="Gif_Github.gif" width="900" height="400"/>
+<img src="/Miau/core_skills.gif" width="900" height="375"/>
+<br>
+
+<div align="center">
+  <img src="/Miau/python.svg" alt="python" width="60" height="60" />
+  <img src="/Miau/typescript.svg" alt="typescript" width="60" height="60" />
+  <img src="/Miau/javascript.svg" alt="javascript" width="60" height="60" />
+  <img src="/Miau/mysql.svg" alt="mysql" width="60" height="60" />
+  <img src="/Miau/docker.svg" alt="docker" width="60" height="60" />
+</div>
+
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
 
 - 🔭 I’m currently working on a Multimodal Deception Detection Project
 - 🌱 I’m currently learning Mojo 🔥
-- 👯 I’m looking to collaborate on Machine Learning & Deep Learning Projects
-- 💻 Web Page ![Web_Page](https://ignaciodejesus.com)
+- 👨‍💻 I’m looking to collaborate on Machine Learning & Deep Learning Projects
+- 💻 Check my [Website!](https://ignaciodejesus.com)
+- 📫 How to reach me: **ignaciodejesus.m.u@gmail.com**
+- 📄 Medium -> [(ノಠ益ಠ)ノ彡 ┻━┻](https://medium.com/@ignaciodejesus.m.u)
+
 <!--
 **IgnaciodeJesus/IgnaciodeJesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
