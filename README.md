@@ -2,9 +2,9 @@
 <h1 align="center"> Hi there, I'm <a href="https://ignaciodejesus.com/">Ignacio de Jesus</a>👋</h1>
 </div>
 
-![Core_Skills](https://media.giphy.com/media/B8vpJUBXbpjgYEGXDP/giphy.gif){ width=900 height=400 }
+<img src="[/images/output/video1.gif](https://giphy.com/embed/B8vpJUBXbpjgYEGXDP)" width="250" height="250"/>
 
-
+<div style="width:100%;height:0;padding-bottom:39%;position:relative;"><iframe src="https://giphy.com/embed/B8vpJUBXbpjgYEGXDP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/B8vpJUBXbpjgYEGXDP">via GIPHY</a></p>
 - 🔭 I’m currently working on a Multimodal Deception Detection Project
 - 🌱 I’m currently learning Mojo 🔥
 - 👯 I’m looking to collaborate on Machine Learning & Deep Learning Projects
