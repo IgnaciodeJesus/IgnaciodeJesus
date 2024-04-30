@@ -16,12 +16,13 @@
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <br>
-
+- 💼 <i><strong>Systems Engineer Teaching Assistant at Universidad de Lima</strong></i>
+  
 - 🔭 <i><strong>I’m currently working on a Multimodal Deception Detection Project</strong></i>
 
-- 🌱 <i><strong>I’m currently learning Mojo</strong></i> 🔥
+- 🌱 <i><strong>Currently learning Mojo</strong></i> 🔥
 
-- 👨‍💻 <i><strong>I’m looking to collaborate on Machine & Deep Learning Projects</strong></i>
+- 👨‍💻 <i><strong>Looking to collaborate on Machine & Deep Learning Projects</strong></i>
 
 - 💻 <i><strong>Check my [Website!](http://ignaciodejesus.com)</strong></i>
 
