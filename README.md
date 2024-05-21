@@ -2,7 +2,7 @@
 <h1 align="center"><i> Hi there, I'm <a href="http://ignaciodejesus.com/">Ignacio de Jesus</a></i>👋</h1>
 </div>
 
-<img src="/Miau/core_skills.gif" width="900" height="375"/>
+<div align="center"><img src="Miau/core_tools.PNG" width="900" height="375"/></div>
 <br>
 
 <div align="center">
