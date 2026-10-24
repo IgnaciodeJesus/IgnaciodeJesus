@@ -40,3 +40,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnaciodeJesus&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
+
+## Documentación y continuidad
+
+[**Abrir la documentación del proyecto**](DOCUMENTACION.md): guías, estado revisado al 24/10/2026, trabajo pendiente, ramas de GitHub y continuidad con Claude.
